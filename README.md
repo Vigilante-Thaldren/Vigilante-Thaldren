@@ -6,4 +6,5 @@ Total Annihilation Game Update\
 
 Self-Hosted Repository Links\
 https://git.thaldren.us/thaldren/totala-update \
-https://git.thaldren.us/thaldren/totala-research
+https://git.thaldren.us/thaldren/totala-research \
+https://git.thaldren.us/thaldren/totala-trainer
