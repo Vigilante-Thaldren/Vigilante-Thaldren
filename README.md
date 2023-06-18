@@ -1,6 +1,6 @@
 # Total Annihilation Engine Notes / Reference Material
 
-https://github.com/RepoBackup20xx/TA_Engine_Notes__Dev_Material_June2023\
+https://github.com/RepoBackup20xx/TA_Engine_Notes__Dev_Material_June2023
 
 # Total Annihilation Forever [TAF / TAForever]
 
