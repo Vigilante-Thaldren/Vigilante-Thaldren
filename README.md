@@ -1,6 +1,6 @@
 # Total Annihilation
 
-Greetings.
+Greetings.\
 I am Thaldren. 
 
 I am the individual responsible for fixing the TA Unofficial Beta Patch 3.9.02 as of 2015+ status from 2019 to 2023. FunkyFr3sh is responsible for providing CNC-DDraw to better wrap the DDraw calls into DirectX 9+. Much thanks for his prior work.
@@ -12,13 +12,13 @@ It is my great pleasure to announce this new project after many years of Total A
 Until next time, Commander!
 
 
-Best Regards,
+Best Regards,\
 Thaldren
 
 August 11, 2023 at 0318 AM EST
 
 
 
-ps:
-I am reachable at 
+ps:\
+I am reachable at \
 taexe@thaldren.us
