@@ -16,9 +16,3 @@ Best Regards,\
 Thaldren
 
 August 11, 2023 at 0318 AM EST
-
-
-
-ps:\
-I am reachable at \
-vigilante@thaldren.us
